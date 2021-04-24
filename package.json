@@ -1,0 +1,19 @@
+{
+  "name": "pixisandbox",
+  "version": "0.1.0",
+  "description": "Pixi project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JW-Ellis/pixiSandbox.git"
+  },
+  "author": "JE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JW-Ellis/pixiSandbox/issues"
+  },
+  "homepage": "https://github.com/JW-Ellis/pixiSandbox#readme"
+}
